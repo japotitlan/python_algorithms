@@ -1,0 +1,14 @@
+Selection Sort Algorithm
+    -Iterate each value
+    -keep track of min. value
+    -temp value to store the replaced value
+
+
+    4,6,7,8,5,2,9,1,0,3
+
+
+    Min = 0
+    Tmp = 4
+
+-Grab the first one
+-
